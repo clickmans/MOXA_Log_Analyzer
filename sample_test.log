@@ -1,0 +1,24 @@
+2026-01-15 08:00:01 Port 1 link on
+2026-01-15 08:00:05 Port 2 link on
+2026-01-15 08:10:00 192.168.1.100 admin Auth.Ok
+2026-01-15 09:15:22 Port 5 link off
+2026-01-15 09:16:01 Port 5 link on
+2026-01-15 09:17:30 Port 5 link off
+2026-01-15 10:00:11 Authentication fail
+2026-01-15 10:01:05 Authentication fail
+2026-01-15 10:02:40 Authentication fail
+2026-01-15 10:03:15 Authentication fail
+2026-01-15 11:30:00 Cold start
+2026-01-15 11:30:05 Warm start by System Restart
+2026-01-15 12:00:00 Master setting is mismatched
+2026-01-15 13:00:00 Topology changed
+2026-01-15 14:00:00 Configuration change activated
+2026-01-15 15:00:00 Account 'admin' auth.success
+2026-01-15 15:30:00 Turbo Ring V2 Topology changed
+2026-01-15 16:00:00 Turbo Ring V2 - master is changed
+2026-01-15 17:00:00 Warm start by Firmware Upgrade
+2026-01-15 18:00:00 Warm start by Factory Default
+2026-01-15 19:00:00 Account 'hacker' auth.fail
+2026-01-15 19:05:00 Port 5 link off
+2026-01-15 20:00:00 Turbo Ring-Ring master setting is mismatched
+2026-01-15 21:00:00 This is some garbage line that should be unknown

@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# PyInstaller 产物
+/build/
+/dist/
+*.manifest
+
+# 可执行文件（通过 GitHub Releases 分发，不纳入版本库）
+*.exe
+
+# 本地运行时配置（含用户自己的 API Key，绝不可提交）
+config.json
+
+# 虚拟环境
+.venv/
+venv/
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
